@@ -1,0 +1,6 @@
+Pandas
+Numpy
+seaborn
+langchain
+openai
+-e .
